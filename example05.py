@@ -12,6 +12,7 @@ score = 0
 score = 1
 score = 2
 print(score)
+print()
 
 print('your score is ' + str(score))
 
