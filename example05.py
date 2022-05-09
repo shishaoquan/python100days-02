@@ -23,6 +23,8 @@ print(f'your score is {score}, your height is {height}'
       f',you are winning is {isWinning}')
 
 print()
+print()
+print()
 
 def new():
       print('hello world')
