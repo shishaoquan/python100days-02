@@ -22,7 +22,7 @@ isWinning = True
 print(f'your score is {score}, your height is {height}'
       f',you are winning is {isWinning}')
 
-
+print()
 
 def new():
       print('hello world')
